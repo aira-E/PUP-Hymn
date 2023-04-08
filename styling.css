@@ -40,7 +40,7 @@
 .Middle
 {
     overflow: hidden;
-    height: 400px;
+    height: 500px;
     position: relative;
     margin-bottom: 3%;
 }
@@ -71,10 +71,10 @@
 button
 {
     color: white;
-    font-size: 22px;
+    font-size: 27px;
     font-family: font-bold;
-    line-height: 40px;
-    min-width: 150px;
+    line-height: 60px;
+    min-width: 160px;
     text-align: center;
     cursor: pointer;
     background-color: #800000;
@@ -110,6 +110,10 @@ button
 
 @media screen and (max-width: 600px)
 {
+    .Upper
+    {
+        padding-top: 5%;
+    }
     #title
     {
         font-size: 13px;
@@ -121,12 +125,12 @@ button
     }
     .Middle
     {
-        height: 470px;
+        height: 420px;
     }
     #hymn
     {
-        font-size: 105%;
-        padding-top: 110%;
+        font-size: 110%;
+        padding-top: 100%;
     }
     button
     {
