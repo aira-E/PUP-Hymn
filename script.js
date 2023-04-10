@@ -10,11 +10,14 @@ function playPause()
    count = 1;
    audio.play();  
    hymnScroll.style.animationPlayState = "running";
+   playPauseBTN.textContent = "PLAY" ;
+
   }
   else
   {
     count = 0;
     audio.pause();
     hymnScroll.style.animationPlayState = "paused";
+    playPauseBTN.textContent = "PAUSED";
   }
 }
