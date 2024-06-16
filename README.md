@@ -8,4 +8,4 @@ where the audio plays while the lyrics are scrolling.
 3. Icon - The website included PUP logo
 4. Footer - The website used "footer" tag that sticks to the lower part of the website which include a hyperlink that redirect the user to the PUP Website hymn page.
 ___
-**Passed by: Aira Estur from BS in Computer Engineering 2-1**
+**Passed by: Aira Estur from BS in Computer Engineering 2-1 for CMPE**
